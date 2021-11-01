@@ -1,0 +1,26 @@
+/*CSS file to render styles for the HTML files.-->*/
+ body            { font-family: sans-serif;
+                  background: #eee;
+                 }
+
+ .center         {
+                  display: block;
+                  margin-left: auto;
+                  margin-right: auto;
+                  width: 20%;
+                }
+ .photo         {
+                text-align: center;
+                }
+
+  .img1        {
+                width: 150px;
+                height: 150px;
+                }
+  .pic       {
+                text-align: center;
+                }
+ .img0       {
+                width: 500px;
+                height: auto;
+                }
