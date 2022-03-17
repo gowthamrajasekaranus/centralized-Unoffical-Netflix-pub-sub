@@ -5,7 +5,7 @@ import smtplib
 import requests
 import sys
 
-
+"Holy waters"
 app = Flask(__name__)
 
 topics = ["new_releases", "expiring", "deleted_titles", "season_changes"]
